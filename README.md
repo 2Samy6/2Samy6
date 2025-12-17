@@ -20,3 +20,4 @@ Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora web em form
 ## 📫 Como me encontrar
 
 - GitHub: [@2Samy6](https://github.com/2Samy6)
+- LinkedIn: (linkedin.com/in/samara-vieira2604)
