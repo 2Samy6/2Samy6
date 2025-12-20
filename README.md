@@ -16,7 +16,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora web em form
 
 - [Meu Portfólio](https://2samy6.github.io/portfolio-samara-vieira/) - Página criada para apresentar meus projetos.
 - [Notas de Ciberseguranca](https://github.com/2Samy6/Notas-de-ciberseguranca) – Blog estático para praticar desenvolvimento web e organização de conteúdo.
-- 
+  
 ## Como me encontrar
 
 - GitHub: [@2Samy6](https://github.com/2Samy6)
